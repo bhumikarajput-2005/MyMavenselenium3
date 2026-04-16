@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>MyMavenSeleniumApp02</artifactId>
+  <artifactId>MyMavenSeleniumApp3</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>MyMavenSeleniumApp02</name>
+  <name>MyMavenSeleniumApp3</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
